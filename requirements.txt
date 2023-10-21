@@ -1,0 +1,10 @@
+jsonschema
+pyarrow
+numpy
+pandas
+altair
+altair-data-server
+altair-viewer
+attrs
+vega_datasets
+streamlit
