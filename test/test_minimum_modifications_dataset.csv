@@ -1,0 +1,8 @@
+,index,RES,POS,MOD,Gene,Species,classification,PathogenicMutation
+1368,8342,N,1,[9999]Hex-N-acetyl-D-glucosamine,ALDOA,HUMAN,glyco,False
+213,1324,K,1,[1]Acetyl,ALDOA,HUMAN,Multiple,False
+873,4679,N,1,[41]Hex,ALDOA,HUMAN,N-linked glycosylation,False
+869,4675,T,1,[41]Hex,ALDOA,HUMAN,O-linked glycosylation,False
+868,4674,K,1,[41]Hex,ALDOA,HUMAN,Other glycosylation,False
+0,265,R,1,[7]Deamidated,ALDOA,HUMAN,Post-translational,False
+98,512,G,1,[35]Oxidation,ALDOA,HUMAN,Pre-translational,False
